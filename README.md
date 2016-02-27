@@ -27,7 +27,7 @@ OAuth tokens and will not work unless valid credentials are provided.
 
 There are three steps that need to be completed: 'Authorization', 'Configuring your Stream', 'Start the App'
 
-```
+```php
 <?php
 
 declare('strict_types=1');
